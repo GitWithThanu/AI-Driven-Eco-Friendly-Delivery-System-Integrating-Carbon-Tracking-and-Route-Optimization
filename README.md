@@ -15,9 +15,7 @@ This project uses Ant Colony Optimization (ACO) to find the most efficient deliv
 
 ---
 
- 📸 Demo
 
-![App Demo](https://your-demo-image-or-gif-link.com) <!-- Optional: Add a screen recording/gif -->
 
 ---
 
